@@ -6,19 +6,19 @@ const playLists = [
   "saigon nightmare — Пацаны с танцев звонят (www.lightaudio.ru).mp3",
   "Harold Faltermeyer - Top Gun Anthem (OST из фильма _Лучший стрелок _ Top Gun_) (galamp3.com).mp3",
   "Lesley Gore - — It's My Party(1963) ost _трудный ребенок_ (www.lightaudio.ru).mp3",
-  "/audio/Max Cruise, The Motion Epic — Danger Zone (www.lightaudio.ru).mp3",
+  "Max Cruise, The Motion Epic — Danger Zone (www.lightaudio.ru).mp3",
   ]
 
 const colors = [
-    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png"
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png",
+    "bb.png"
     ]
 
 const images = [
